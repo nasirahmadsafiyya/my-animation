@@ -5,6 +5,8 @@ import Anim2 from './components/anim2';
 import Anim3 from './components/anim3';
 import Anim4 from './components/anim4';
 import Anim5 from './components/anim5';
+import Anim6 from './components/anim6';
+import Anim7 from './components/anim7';
 
 
 function App() {
@@ -14,7 +16,9 @@ function App() {
      {/*<Anim2 /> */}
      {/*<Anim3 /> */}
      {/*<Anim4 /> */}
-     <Anim5 />
+    {/* <Anim5 /> */}
+     {/*<Anim6 /> */}
+     <Anim7 />
      
     </div>
   );
