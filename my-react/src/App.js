@@ -10,6 +10,7 @@ import Anim7 from './components/anim7';
 import Anim8 from './components/anim8';
 import Anim9 from './components/Anim9';
 import Anim10 from './components/anim10';
+import Anim11 from './components/anim11';
 
 
 function App() {
@@ -24,8 +25,8 @@ function App() {
       {/*<Anim7 /> */}
       {/*<Anim8 /> */}
       {/*<Anim9 /> */}
-      <Anim10 />
-
+      {/*<Anim10/> */}
+      <Anim11/>
     </div>
   );
 }
